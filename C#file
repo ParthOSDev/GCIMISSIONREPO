@@ -1,0 +1,6 @@
+--Written in C# (FILE FOR GCI)--
+
+
+using System
+
+Console.WriteLine("Hello World")
